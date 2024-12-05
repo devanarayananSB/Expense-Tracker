@@ -1,16 +1,26 @@
-# money_track
+# **Money Track**  
+A powerful and intuitive Flutter app to track your expenses and manage your budget effectively.
 
-A new Flutter project.
+![Money Tracker Banner](https://github.com/devanarayananSB/Expense-Tracker/blob/MoneyApp/hundred-dollar-bills-on-wooden-floor-3d-render-illustration-money-and-dollar-bills-are-spread-out-on-the-table-ai-generated-free-photo.jpg?raw=true)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Features**  
+- 🤑 **Expense Tracking**: Log daily expenses quickly and easily.  
+- 📊 **Analytics**: Get insights into your spending patterns with dynamic charts.  
+- 💡 **Budget Management**: Set limits and stay on track with notifications.  
+- 🌐 **Cross-Platform Support**: Available for both Android and iOS.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **Getting Started**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter project serves as a foundation for building and customizing an expense tracker. Follow these steps to get started:
+
+### **1. Prerequisites**  
+- Install [Flutter](https://flutter.dev/docs/get-started/install).  
+- Set up an editor like [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/).  
+- Verify the Flutter installation by running:  
+
+  ```bash
+  flutter doctor
